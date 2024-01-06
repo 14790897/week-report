@@ -32,6 +32,6 @@
     "jest-environment-jsdom": "^29.1.2",
     "postcss": "^8.4.17",
     "ts-jest": "^29.0.3",
-    "vue-jest": "^3.0.4"
+    "vue-jest": "^4.0.1"
   }
 }
